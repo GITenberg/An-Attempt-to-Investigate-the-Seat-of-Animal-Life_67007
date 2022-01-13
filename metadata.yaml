@@ -1,0 +1,33 @@
+_repo: An-Attempt-to-Investigate-the-Seat-of-Animal-Life_67007
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curtis, Henry
+    birthdate: 1792
+    deathdate: 1862
+    gutenberg_agent_id: '54074'
+    url: http://www.gutenberg.org/2009/agents/54074
+description: ''
+gutenberg_issued: '2021-12-25'
+identifiers:
+  gutenberg: '67007'
+  lccn: '34020173'
+language: en
+pgterms:marc904: https://archive.org/details/2548034R.nlm.nih.gov/page/n5/mode/2up
+pgterms:marc905: 20210721092546curtis
+pgterms:marc906: '1812'
+pgterms:marc907: us
+production_note: Sonya Schermann, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Benjamin Edes,1812.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life (Biology)'
+- !lcsh 'Thesis (M.D.)'
+- !lcc 'QH'
+- GITenberg
+title: An Attempt to Investigate the Seat of Animal Life
+url: http://www.gutenberg.org/ebooks/67007
