@@ -1,5 +1,8 @@
 _repo: An-Attempt-to-Investigate-the-Seat-of-Animal-Life_67007
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67007-h/images/cover.jpg
 creator:
   author:
     agent_name: Curtis, Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54074'
     url: http://www.gutenberg.org/2009/agents/54074
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67007#An-Attempt-to-Investigate-the-Seat-of-Animal-Life
 gutenberg_issued: '2021-12-25'
 identifiers:
   gutenberg: '67007'
